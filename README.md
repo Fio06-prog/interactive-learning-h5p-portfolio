@@ -81,6 +81,3 @@ The purpose of this project is to explore how digital tools can transform educat
 
 The activities were designed to provide a clear learning structure, encourage active participation, and reinforce understanding through interactive exercises and assessments.
 
-## Project Note
-
-This is an independent portfolio project created for demonstration purposes. It is not official ALMA-CETra project material.
