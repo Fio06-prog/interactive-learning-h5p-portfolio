@@ -31,7 +31,9 @@ An interactive presentation introducing auditory perception and its three main s
 - Visual learning materials.
 - Interactive knowledge checks.
 
-![Auditory Cognition Presentation](./screenshots/lumi_01.png)
+**Screenshot:**
+
+![Auditory Cognition Presentation](./Lumi_01.png)
 
 [Download H5P Presentation](./01_Auditory_Cognition.h5p)
 
@@ -46,7 +48,9 @@ An interactive matching exercise in which learners connect auditory perception c
 - Immediate feedback.
 - Automatic score calculation.
 
-![Auditory Perception Matching Exercise](./screenshots/lumi_02.png)
+**Screenshot:**
+
+![Auditory Perception Matching Exercise](./Lumi_02.png)
 
 [Download H5P Matching Exercise](./02_Auditory_Perception_Matching.h5p)
 
@@ -62,7 +66,9 @@ A five-question assessment covering auditory perception and cognitive processes.
 - Immediate feedback for correct and incorrect answers.
 - Individual explanations for each question.
 
-![Auditory Perception Knowledge Check](./screenshots/lumi_03.png)
+**Screenshot:**
+
+![Auditory Perception Knowledge Check](./Lumi_03.png)
 
 [Download H5P Knowledge Check](./03_Auditory_Perception_Knowledge_Check.h5p)
 
