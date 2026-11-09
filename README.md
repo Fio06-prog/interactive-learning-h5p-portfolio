@@ -80,4 +80,3 @@ A five-question assessment covering auditory perception and cognitive processes.
 The purpose of this project is to explore how digital tools can transform educational content into interactive and engaging learning experiences.
 
 The activities were designed to provide a clear learning structure, encourage active participation, and reinforce understanding through interactive exercises and assessments.
-
