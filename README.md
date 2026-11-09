@@ -3,48 +3,77 @@
 
 ## Project Overview
 
-This portfolio showcases three interactive digital learning activities developed with **H5P and Lumi Desktop**.
+This portfolio showcases three interactive digital learning activities developed using **H5P and Lumi Desktop**.
 
-The project explores introductory concepts of auditory perception and cognitive processing through interactive presentations, matching exercises, and knowledge assessments.
+The project introduces fundamental concepts of auditory perception and cognitive processing through interactive presentations, matching exercises, and knowledge assessments.
 
 It demonstrates practical skills in digital learning content creation, interactive exercise development, feedback design, and educational material structuring.
-
-**Note:** This is an independent educational prototype. It is not official learning material from the ALMA-CETra project.
 
 ## Learning Objectives
 
 The activities introduce five key concepts:
 
-- Auditory Detection
-- Auditory Discrimination
-- Auditory Interpretation
-- Selective Attention
-- Working Memory
+- **Auditory Detection:** Identifying the presence of a sound.
+- **Auditory Discrimination:** Recognizing differences between sounds.
+- **Auditory Interpretation:** Understanding the meaning of sounds.
+- **Selective Attention:** Focusing on relevant sounds while filtering out distractions.
+- **Working Memory:** Temporarily retaining and processing auditory information.
 
 ## Interactive Activities
 
 ### 01. Introduction to Auditory Cognition
+
 **H5P Content Type:** Course Presentation
 
 An interactive presentation introducing auditory perception and its three main stages: detection, discrimination, and interpretation.
 
+**Key Features:**
+- Structured educational content.
+- Visual learning materials.
+- Interactive knowledge checks.
+
 ### 02. Auditory Perception – Matching Exercise
+
 **H5P Content Type:** Drag and Drop
 
-A matching activity in which learners connect auditory perception concepts with their corresponding definitions.
+An interactive matching exercise in which learners connect auditory perception concepts with their corresponding definitions.
+
+**Key Features:**
+- Drag-and-drop interaction.
+- Immediate feedback.
+- Automatic score calculation.
 
 ### 03. Auditory Perception – Knowledge Check
+
 **H5P Content Type:** Question Set
 
-A five-question assessment covering auditory perception and cognitive processes, with automatic feedback for correct and incorrect answers.
+A five-question assessment covering auditory perception and cognitive processes.
+
+**Key Features:**
+- Multiple-choice questions.
+- Automatic scoring.
+- Immediate feedback for correct and incorrect answers.
+- Individual explanations for each question.
 
 ## Tools and Technologies
 
-- H5P
-- Lumi Desktop
-- Interactive Learning Design
-- Digital Educational Content Development
+- **H5P:** Interactive learning content creation.
+- **Lumi Desktop:** Development and testing of H5P activities.
+- **HTML:** Standalone presentation of exported learning materials.
+- **GitHub:** Project documentation and version management.
+
+## Skills Demonstrated
+
+- Interactive digital learning content development.
+- Educational material structuring.
+- Quiz and assessment design.
+- User feedback implementation.
+- Usability testing.
+- Digital content organization.
 
 ## Project Purpose
 
-This project was developed as a practical demonstration of skills relevant to digital learning environments, including interactive content creation, usability testing, and structured educational material development.
+The purpose of this project is to explore how digital tools can transform educational content into interactive and engaging learning experiences.
+
+The activities were designed to provide a clear learning structure, encourage active participation, and reinforce understanding through interactive exercises and assessments.
+
