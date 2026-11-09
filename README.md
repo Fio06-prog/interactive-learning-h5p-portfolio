@@ -31,7 +31,7 @@ An interactive presentation introducing auditory perception and its three main s
 - Visual learning materials.
 - Interactive knowledge checks.
 
-**[View Interactive Presentation](https://fio06-prog.github.io/interactive-learning-h5p-portfolio/01_Auditory_Cognition_Presentation.html)**
+[View Interactive Presentation](./01_Auditory_Cognition_Presentation.html)
 
 ### 02. Auditory Perception – Matching Exercise
 
@@ -44,7 +44,7 @@ An interactive matching exercise in which learners connect auditory perception c
 - Immediate feedback.
 - Automatic score calculation.
 
-**[View Matching Exercise](https://fio06-prog.github.io/interactive-learning-h5p-portfolio/02_Auditory-Cognition-Module.html)**
+[View Matching Exercise](./02_Auditory-Cognition-Module.html)
 
 ### 03. Auditory Perception – Knowledge Check
 
@@ -58,7 +58,7 @@ A five-question assessment covering auditory perception and cognitive processes.
 - Immediate feedback for correct and incorrect answers.
 - Individual explanations for each question.
 
-**[Download H5P Activity](https://github.com/Fio06-prog/interactive-learning-h5p-portfolio/blob/main/03_Auditory_Perception_Knowledge_Check.h5p)**
+[Download H5P Activity](./03_Auditory_Perception_Knowledge_Check.h5p)
 
 ## Tools and Technologies
 
